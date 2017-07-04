@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Chatqq</string>
+    <string name="btnEnterChat">Войти в чат</string>
+    <string name="btnSettings">Настройки</string>
+    <string name="btnFaq">Инструкция</string>
+    <string name="about">О нас</string>
+    <string name="slogan">For drinker with love&#8230;</string>
 </resources>
